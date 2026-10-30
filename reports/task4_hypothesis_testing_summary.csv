@@ -1,0 +1,14 @@
+Metric,Result
+Research Question,Difference in average order revenue per customer
+Statistical Test,Welch's Independent-Samples T-Test
+Significance Level,0.05
+Electronics-only Customers,344
+Fashion-only Customers,149
+Electronics Average,143621.03
+Fashion Average,129713.92
+Difference in Averages,13907.12
+T-statistic,1.3045
+P-value,0.193027
+95% CI Lower Limit,-7069.57
+95% CI Upper Limit,34883.8
+Decision,Fail to Reject H0
